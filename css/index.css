@@ -1,0 +1,36 @@
+:root{
+/*colores*/
+--blue-color: rgba(0,48, 87, 0.9);
+--yellow-color:rgba(242, 169, 0, 0.9);
+--gray-color:rgba(178, 178, 179, 0.9);
+--red-color: rgba(147, 39, 44, 0.9);
+--white-color: white;
+--blue-color2: rgba(0, 106, 142, 0.9);
+--yellow-color2: rgba(218, 170,0);
+--black-color: rgba(60, 60, 50, 0.9);
+}
+#Footer {
+  background-color: var(--yellow-color);
+}
+
+
+#Footer a {
+  color: var(--blue-color);
+}
+
+#header{
+  background-color: #B2B2B1;
+}
+
+#navbar a {
+  color: var(--blue-color);
+}
+
+
+#navbar img {
+  width: 150px;
+}
+
+.text-important {
+  color: var(--red-color) !important;
+}
