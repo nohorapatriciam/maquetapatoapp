@@ -34,3 +34,8 @@
 .text-important {
   color: var(--red-color) !important;
 }
+
+#carousel .carousel-inner img {
+  max-height: 80vh;
+  object-fit: over;
+}
